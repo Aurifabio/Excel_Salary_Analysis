@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
-1_Salary_Dashboard.png
 
+![1_Salary_Dashboard.png](/Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ### Introduction
 This dashboard was built to explore salary patterns across data-related roles, helping users compare job titles, regions, and work types. The goal was to apply Excel techniques in a real-world scenario while improving analytical insight and dashboard design.
@@ -33,7 +33,8 @@ The dataset used for this project contains real-world data science job informati
 📉 Charts
 
 📊 Data Science Job Salaries - Bar Chart
-Salary Dashboard Chart1
+
+<img src="/Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
   
@@ -44,8 +45,8 @@ Salary Dashboard Chart1
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 **🗺️ Country Median Salaries - Map Chart**
-1_Salary_Dashboard_Chart2.png
 
+![1_Salary_Dashboard_Chart2.png](/Resources/Images/1_Salary_Dashboard_Country_Map.gif)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 
@@ -81,7 +82,7 @@ IF(
 
 🍽️ Background Table
 
-1_Salary_Dashboard_Screenshot1.png
+<img src="/Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
 📉 Dashboard Implementation
 
@@ -96,11 +97,11 @@ Salary Dashboard Title
 
 🍽️ Background Table
 
-1_Salary_Dashboard_Type.png
+![1_Salary_Dashboard_Type.png](/Resources/Images/1_Salary_Dashboard_Screenshot2.png)
 
 📉 Dashboard Implementation:
 
-Salary Dashboard Type
+<img src="/Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
@@ -112,8 +113,8 @@ Salary Dashboard Type
 
   - 🚫 Incorrect or inconsistent entries are prevented
   - 👥 Overall usability of the dashboard is enhanced
-    
-Salary Dashboard Data Validation
+
+    <img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## 📌 Insights and Reflection
 
