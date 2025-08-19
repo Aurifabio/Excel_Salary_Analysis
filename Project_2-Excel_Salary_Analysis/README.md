@@ -1,9 +1,12 @@
 
-# Project 2 Analysis
+# 📊 Project 2 – Data Jobs Market Analysis (Excel, Power Query, Power Pivot & DAX)
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As a data enthusiast and job seeker, I’ve often noticed the lack of structured analysis exploring the most optimal jobs and skills in the **data science job market**.  
+The goal of this project is to uncover insights about **skills, salaries, and regional trends** to better understand what top employers are looking for and how professionals can position themselves for higher pay.
+
+---
 
 ### Questions to Analyze
 
@@ -14,26 +17,31 @@ To understand the data science job market, I asked the following:
 3. **What are the top skills of data professionals?**
 4. **What’s the pay for the top 10 skills?**
 
+---
+
 ### Excel Skills Used
 
 The following Excel skills were utilized for analysis:
 
-- **📊 Pivot Tables**
-- **📈 Pivot Charts**
-- **🧮 DAX (Data Analysis Expressions)**
-- **🔍 Power Query**
-- **💪 Power Pivot**
+- **🔍 Power Query** → ETL (Extract, Transform, Load) for data cleaning & preparation.  
+- **💪 Power Pivot** → Data modeling and table relationships.  
+- **🧮 DAX (Data Analysis Expressions)** → Calculations and advanced measures.  
+- **📊 Pivot Tables** → Aggregation and analysis.  
+- **📈 Pivot Charts** → Visualization of insights.
 
-### Data Jobs Dataset
+---
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. 
+## 📂 Dataset
 
-It includes detailed information on:
+The dataset used contains **real-world job postings from 2023**, including:  
+- **👨‍💼 Job titles**  
+- **💰 Salaries**  
+- **📍 Locations**  
+- **🛠️ Required skills**  
 
-- **👨‍💼 Job titles**
-- **💰 Salaries**
-- **📍 Locations**
-- **🛠️ Skills**
+It provides a representative view of the data analytics & data science job market.  
+
+---
 
 ## 1️⃣ Do more skills get you better pay?
 
