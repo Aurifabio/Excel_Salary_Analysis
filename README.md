@@ -11,7 +11,7 @@ Explore data jobs salaries filtered by role, country, work type and platform. Bu
 - Clustered bar charts and maps
 - TEXTAFTER, XLOOKUP, COUNTIFS, MEDIAN, etc.
 
-> 📂 [View Project Folder](.Project_1-Dashboard)
+> 📂 [View Project Folder](./Project_1-Dashboard)
 
 ## 🔧 Skills Applied Across Projects
 
