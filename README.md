@@ -11,7 +11,7 @@ Explore data jobs salaries filtered by role, country, work type and platform. Bu
 - Clustered bar charts and maps
 - TEXTAFTER, XLOOKUP, COUNTIFS, MEDIAN, etc.
 
-> 📂 [View Project Folder](.Project_1-dashboard)
+> 📂 [View Project Folder](.Project_1-Dashboard)
 
 ## 🔧 Skills Applied Across Projects
 
@@ -33,7 +33,7 @@ Explore data jobs salaries filtered by role, country, work type and platform. Bu
 
 - DAX measures (median salary, skill-based insights)
 
-[📂 View Project Folder](./Project_2-Excel_Salary_analysis)
+[📂 View Project Folder](./Project_2-Excel_Salary_Analysis)
 
 - Conditional formatting and interactivity
 - Data storytelling using charts and structure
