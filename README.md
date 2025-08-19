@@ -20,5 +20,21 @@ Explore data jobs salaries filtered by role, country, work type and platform. Bu
 - Advanced Excel formulas (IF, FILTER, XLOOKUP, TEXTAFTER)
 - Data cleaning and validation
 - Dashboard design and layout
+
+---
+
+# Data Jobs Analysis
+
+## Investigate trends in the data job market, exploring the relationship between skills, salaries, and demand across regions. Built with:
+
+- Power Query (ETL, cleaning, and transformation)
+
+- Power Pivot (data modeling and relationships)
+
+- Pivot Tables & Charts (aggregation and visualization)
+
+- DAX measures (median salary, skill-based insights)
+
+📂 View Project Folder(./salary-dashboard)
 - Conditional formatting and interactivity
 - Data storytelling using charts and structure
